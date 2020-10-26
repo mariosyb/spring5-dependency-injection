@@ -1,4 +1,4 @@
-# Dependency Injection Examples
+# Component Scan Example
 
-This repository is for an example application built in my Spring Framework 5
+Component Scan example in Spring Framework 5
 
