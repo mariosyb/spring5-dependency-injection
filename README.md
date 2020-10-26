@@ -1,4 +1,4 @@
-# Dependency Injection Examples
+# Factory Beans Examples
 
-This repository is for an example application built in my Spring Framework 5
+Factory benas example Spring Framework 5
 
