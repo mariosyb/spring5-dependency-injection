@@ -1,4 +1,4 @@
-# Dependency Injection Examples
+# Property Source Example
 
-This repository is for an example application built in my Spring Framework 5
+This repository is for an example of using external .properties files with Spring 5
 
