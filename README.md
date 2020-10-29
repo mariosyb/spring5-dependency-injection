@@ -1,4 +1,4 @@
-# Dependency Injection Examples
+# Environment Props Example
 
-This repository is for an example application built in my Spring Framework 5
+This branch contains an example of using environment propesties(OS props) with Spring Framework 5
 
